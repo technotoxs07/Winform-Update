@@ -1,0 +1,5 @@
+C:\Users\Techno Toxs\source\repos\Winform-Update\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.exe
+C:\Users\Techno Toxs\source\repos\Winform-Update\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.deps.json
+C:\Users\Techno Toxs\source\repos\Winform-Update\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+C:\Users\Techno Toxs\source\repos\Winform-Update\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.pdb
